@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="emre mengutay" width="100%">
+  <img src="banner.png" alt="emre mengutay" width="100%">
 </p>
 
 Bachelors in Computer Science with specilization in Software Engineering — malmö university.
