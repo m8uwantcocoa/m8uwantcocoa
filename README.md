@@ -27,4 +27,4 @@ backend in java, c# and go, frontend in react/vue/typescript. i build to underst
 
 ### elsewhere
 
-[emremengutay.se](https://www.emremengutay.se) · [linkedin]([https://www.linkedin.com/in/PLACEHOLDER](https://www.linkedin.com/in/emre-meng%C3%BCtay-a3a85a24b/))
+[emremengutay.se](https://www.emremengutay.se) · [linkedin](https://www.linkedin.com/in/emre-meng%C3%BCtay-a3a85a24b/))
