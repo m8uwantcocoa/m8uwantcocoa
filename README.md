@@ -5,6 +5,7 @@
 Bachelors in Computer Science with specilization in Software Engineering — malmö university.
 
 backend in java, c# and go, frontend in react/vue/typescript. 
+<img src="https://ghchart.rshah.org/8b8b8b/m8uwantcocoa" alt="contributions" width="75%">
 
 ---
 
