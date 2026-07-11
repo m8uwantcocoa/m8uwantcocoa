@@ -16,42 +16,75 @@
 
 ### selected work
 
-**[primus-go](https://github.com/m8uwantcocoa/primus-go)**  
-fire multiple endpoints at once, keep the first that answers. chains llm providers as fallbacks. no config, no deps.  
-<sub>go</sub>
-
-**keeb** · in progress  
-a keystroke-rhythm monitor that locks the machine when the typing stops looking like yours.  
-<sub>go · python · isolation forest</sub>
-
-**[ssh honeypot research](https://mau.diva-portal.org/smash/record.jsf?aq2=%5B%5B%5D%5D&c=125&af=%5B%5D&searchType=LIST_LATEST&sortOrder2=title_sort_asc&query=&language=en&pid=diva2%3A2077078&aq=%5B%5B%5D%5D&sf=all&aqe=%5B%5D&sortOrder=author_sort_asc&onlyFullText=false&noOfRows=50&dswid=-8642)**  
-bachelor thesis. honeypots deployed across two clouds, attacker data pseudonymized with salted hashes, a gdpr analysis of the whole pipeline. published.  
-<sub>python · gcp · oci</sub>
-
-**[gulp archive](https://gulparchive.site)**  
-a community energy-drink rating platform. live, with real users.
-
-**[git-social](https://github.com/m8uwantcocoa/git-social)**  
-a social feed built from real github activity. social for coders, linkedin could never.  
-<sub>nuxt · vue · typescript · supabase</sub>
-
-**[soc-ai-l](https://github.com/m8uwantcocoa/soc-ai-l)**  
-an autonomous social feed where every post is ai reacting to real news. you are the only human.  
-<sub>next.js · react · typescript</sub>
-
-**[happycat](https://github.com/m8uwantcocoa/happycat)**  
-pet care logging: feeds, water, play, vet visits. tamagotchi-adjacent.  
-<sub>next.js · typescript · prisma · supabase</sub>
-
-**[interactive-weather-component](https://github.com/m8uwantcocoa/interactive-weather-component)**  
-click anywhere on a map, get a 24h forecast. headless component, installs via npx.  
-<sub>react · leaflet · chart.js</sub>
-
-**[movietrack](https://github.com/m8uwantcocoa/movietrack)**  
-a film's metadata and its soundtrack, with spotify integration.  
-<sub>java · spring boot</sub>
+<table>
+<tr>
+<td colspan="2" valign="top">
+<sub>01 · published</sub><br>
+<a href="https://mau.diva-portal.org/smash/record.jsf?pid=diva2%3A2077078"><b>ssh honeypot research</b></a><br>
+<sub>bachelor thesis. honeypots deployed across two clouds, attacker data pseudonymized with salted hashes, a gdpr analysis of the whole pipeline.</sub><br><br>
+<sub><img src="https://cdn.simpleicons.org/python" height="14"> python &nbsp; <img src="https://cdn.simpleicons.org/googlecloud" height="14"> gcp &nbsp; oci</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<sub>02</sub><br>
+<a href="https://github.com/m8uwantcocoa/primus-go"><b>primus-go</b></a><br>
+<sub>fire multiple endpoints at once, keep the first that answers. chains llm providers as fallbacks. no config, no deps.</sub><br><br>
+<sub><img src="https://cdn.simpleicons.org/go" height="14"> go</sub>
+</td>
+<td width="50%" valign="top">
+<sub>03 · in progress</sub><br>
+<b>keeb-logger</b><br>
+<sub>a keystroke-rhythm monitor that locks the machine when the typing stops looking like yours.</sub><br><br>
+<sub><img src="https://cdn.simpleicons.org/go" height="14"> go &nbsp; <img src="https://cdn.simpleicons.org/python" height="14"> python &nbsp; <img src="https://cdn.simpleicons.org/typescript" height="14"> typescript &nbsp; isolation forest</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<sub>04 · live</sub><br>
+<a href="https://gulparchive.site"><b>gulp archive</b></a><br>
+<sub>a community energy-drink rating platform, with real users.</sub>
+</td>
+<td width="50%" valign="top">
+<sub>05</sub><br>
+<a href="https://github.com/m8uwantcocoa/git-social"><b>git-social</b></a><br>
+<sub>a social feed built from real github activity. social for coders, linkedin could never.</sub><br><br>
+<sub><img src="https://cdn.simpleicons.org/nuxt/00DC82/00DC82" height="14"> nuxt &nbsp; <img src="https://cdn.simpleicons.org/vuedotjs" height="14"> vue &nbsp; <img src="https://cdn.simpleicons.org/typescript" height="14"> typescript &nbsp; <img src="https://cdn.simpleicons.org/supabase" height="14"> supabase</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<sub>06</sub><br>
+<a href="https://github.com/m8uwantcocoa/soc-ai-l"><b>soc-ai-l</b></a><br>
+<sub>an autonomous social feed where every post is ai reacting to real news. you are the only human.</sub><br><br>
+<sub><img src="https://cdn.simpleicons.org/nextdotjs/000000/ffffff" height="14"> next.js &nbsp; <img src="https://cdn.simpleicons.org/react" height="14"> react &nbsp; <img src="https://cdn.simpleicons.org/typescript" height="14"> typescript</sub>
+</td>
+<td width="50%" valign="top">
+<sub>07</sub><br>
+<a href="https://github.com/m8uwantcocoa/happycat"><b>happycat</b></a><br>
+<sub>pet care logging: feeds, water, play, vet visits. tamagotchi-adjacent.</sub><br><br>
+<sub><img src="https://cdn.simpleicons.org/nextdotjs/000000/ffffff" height="14"> next.js &nbsp; <img src="https://cdn.simpleicons.org/typescript" height="14"> typescript &nbsp; <img src="https://cdn.simpleicons.org/prisma/2D3748/8ea3c0" height="14"> prisma &nbsp; <img src="https://cdn.simpleicons.org/supabase" height="14"> supabase</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<sub>08</sub><br>
+<a href="https://github.com/m8uwantcocoa/movietrack"><b>movietrack</b></a><br>
+<sub>search for a film, get its metadata and its soundtrack, with spotify integration.</sub><br><br>
+<sub><img src="https://cdn.simpleicons.org/openjdk/000000/ffffff" height="14"> java &nbsp; <img src="https://cdn.simpleicons.org/springboot" height="14"> spring boot</sub>
+</td>
+<td width="50%" valign="top">
+<sub>09</sub><br>
+<a href="https://github.com/m8uwantcocoa/pepe-chat"><b>pepe-chat</b></a><br>
+<sub>real-time chat: dms, presence, offline delivery. the first-year java thread-per-client app, re-expressed as one hub goroutine. one binary.</sub><br><br>
+<sub><img src="https://cdn.simpleicons.org/go" height="14"> go &nbsp; <img src="https://cdn.simpleicons.org/vuedotjs" height="14"> vue &nbsp; websockets</sub>
+</td>
+</tr>
+</table>
 
 <br>
+
+### elsewhere
 
 <p align="center">
   <sub><a href="https://www.emremengutay.se">emremengutay.se</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/emre-meng%C3%BCtay-a3a85a24b/">linkedin</a></sub>
